@@ -82,7 +82,7 @@
     "libp2p": "^0.46.11",
     "protons": "^7.0.2",
     "sinon": "^16.0.0",
-    "sinon-ts": "^1.0.0"
+    "sinon-ts": "^2.0.0"
   },
   "browser": {
     "./dist/src/webrtc/index.js": "./dist/src/webrtc/index.browser.js"
