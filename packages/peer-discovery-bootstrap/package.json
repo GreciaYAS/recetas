@@ -57,6 +57,6 @@
   "devDependencies": {
     "@libp2p/interface-compliance-tests": "^4.0.6",
     "aegir": "^40.0.8",
-    "sinon-ts": "^1.0.0"
+    "sinon-ts": "^2.0.0"
   }
 }
