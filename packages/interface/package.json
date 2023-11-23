@@ -166,7 +166,7 @@
     "uint8arraylist": "^2.4.3"
   },
   "devDependencies": {
-    "@types/sinon": "^10.0.15",
+    "@types/sinon": "^17.0.2",
     "aegir": "^40.0.8",
     "sinon": "^16.0.0",
     "sinon-ts": "^1.0.0"
